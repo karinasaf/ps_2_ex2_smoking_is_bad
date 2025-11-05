@@ -1,0 +1,11 @@
+name: smoke
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - pandas
+  - pathlib
+  - seaborn
+  - pre-commit
+  - statsmodels
+prefix: /home/notei/miniconda3/envs/smoke
